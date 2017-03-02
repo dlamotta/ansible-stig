@@ -1,0 +1,3 @@
+---
+- src: samdoran.RHEL7-STIG
+  name: rhel7-stig
